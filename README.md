@@ -70,5 +70,6 @@
 ---
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-analytics-4526740-3773572.png" height="200px" alt="analytics illustration"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
