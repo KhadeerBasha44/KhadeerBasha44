@@ -5,11 +5,8 @@
 ## 💡 About Me
 
 - 👨‍💻 I'm a Data Analyst and ML Enthusiast from India  
-- 💻 Skilled in Python, Machine Learning, Deep Learning, PySpark, R, SQL, Excel, Power BI  
-- 🤖 Experienced with algorithms like Random Forest, SVM, Logistic Regression, and Gradient Boosting  
+- 💻 Skilled in Python, Machine Learning, Deep Learning, R, SQL, Excel, Power BI  
 - 📊 Built predictive systems for insurance cost, disease prediction & airline analysis  
-- 🌱 Currently learning: AI Productization, AutoML, and NLP  
-- 🎓 Pursuing Integrated M.Sc. in Computational Statistics and Data Analytics at VIT (2020–2025)  
 - 🧠 Fun Fact: I make models not only smart—but also deployable!
 
 ---
@@ -32,8 +29,8 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadeerbasha&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadeerbasha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khadeerbasha44&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadeerbasha44&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
