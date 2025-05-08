@@ -56,11 +56,15 @@
 
 ## 🌱 Currently Learning
 
+## 🌱 Currently Learning
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-AutoML-00C853?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NLP-6200EA?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-AI%20Productization-009688?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Model%20Deployment-FF6F61?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-5F4B8B?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 
 ---
 
