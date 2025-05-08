@@ -43,13 +43,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/khadeerbasha](https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278)" target="_blank">
+  <a href="https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:khadeerbasha20@gmail.com">
+  <a href="mailto:khadeershaik2906@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/khadeerbasha">
+  <a href="https://github.com/khadeerbasha44">
     <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
