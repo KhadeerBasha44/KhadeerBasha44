@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Khadeer+Basha!;Data+Analyst+%7C+ML+%7C+AI+%7C+DL+%7C+Pythonist;Building+Smart+AI+Solutions+with+Python" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Khadeer+Basha!;Data+Analyst+%7C+ML+%7C+AI+%7C+DL+%7C+Pythonista;Building+Smart+AI+Solutions+with+Python" alt="Typing SVG">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 👨‍💻 I'm a Data Analyst and ML Enthusiast from India  
 - 💻 Skilled in Python, Machine Learning, SQL, Excel, Power BI  
 - 📊 Built predictive systems for insurance cost, disease prediction & airline analysis  
-- 🧠 Fun Fact: I make models not only smart—but also deployable!
+- 🧠 Fun Fact: I make models not only smart — but also deployable!
 
 ---
 
