@@ -8,7 +8,7 @@
 ## 💡 About Me
 
 - 👨‍💻 I'm a Data Analyst and ML Enthusiast from India  
-- 💻 Skilled in Python, Machine Learning, Deep Learning, R, SQL, Excel, Power BI  
+- 💻 Skilled in Python, Machine Learning, SQL, Excel, Power BI  
 - 📊 Built predictive systems for insurance cost, disease prediction & airline analysis  
 - 🧠 Fun Fact: I make models not only smart—but also deployable!
 
@@ -17,10 +17,9 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=black"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
