@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/-Pandas-152488?style=flat-square&logo=pandas&logoColor=darkblue"/>
+  <img src="https://img.shields.io/badge/-Pandas-F2C811?style=flat-square&logo=pandas&logoColor=darkblue"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
